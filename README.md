@@ -1,4 +1,4 @@
-# merge-conflits
+LOCAL
 Voici
 quelques
 lignes
