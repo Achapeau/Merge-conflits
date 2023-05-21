@@ -1,4 +1,4 @@
-# merge-conflits
+REMOTE
 Voici
 quelques
 lignes
